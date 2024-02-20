@@ -10,7 +10,7 @@ export default function Freelancer() {
                     <Stack spacing={{ base: '4', md: '5' }} align="center">
                         <Heading size={useBreakpointValue({ base: 'sm', md: 'lg' })} color={'primary.800'}>Looking For Freelancer ?</Heading>
                         <Text color="gray.500" maxW="2xl" textAlign="center" fontSize="xl">
-                            I have spent enough time with simple and complex full fleged projects. I have created apps, website, scripts and have also coded and deployed admin panels and database/backend on cloud.I love to take on new challenges and work on experimental projects.
+                        I have spent enough time on simple and complex full-fledged Projects. I have created apps, websites, scripts, and deployed admin panels and databases/backends on the cloud. I love taking on new challenges and working on experimental projects.
                             <br/>
                             
                         </Text>

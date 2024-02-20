@@ -16,20 +16,20 @@ const milestones = [
         id: 1,
         date: 'June, 2018 ',
         title: 'Completed 18th',
-        description: `I went to Saint Johannes Internation School at the eastern coast of Ghana.`
+        description: `I initially attended the Golden Child Complex School before transferring to Saint Johannes International School on the eastern coast of Ghana when I was in class 2, where I became a boarding student. This summarizes my educational background.`
     },
     {
         id: 2,
         date: 'October, 2021',
         title: 'Completed 20th',
-        description: `I attended Suhum senior high Technical School which is located in the Eastern Region of Ghana, i studied Science with I.T, i participated in Robotics Club and i was a member of the National Science and Maths Quiz club. My main objective is to be a renowned Software Engineer and work at a top notch Company`
+        description: `I attended Suhum Senior High Technical School, located in the Eastern Region of Ghana, where I pursued a Science with Information Technology (I.T) program. During my time at the school, I actively participated in the Robotics Club and was also a member of the National Science and Maths Quiz club. My primary goal is to become a renowned Software Engineer and work for a top-notch company`
     },
     {
         id: 3,
         date: 'January 1, 2022',
         title: 'Currently in University',
         description:
-            'I am studying Bachelor of Science in Information Technology. I am a third year undergraduate. I volunteered to work as a web developer for University of Ghana Actuarial and Statistical Department'
+            'I am currently a third-year undergraduate student pursuing a Bachelor of Science in Information Technology. I have volunteered to work as a web developer for the Actuarial and Statistical Department at the University of Ghana.'
     },
     
 ];
