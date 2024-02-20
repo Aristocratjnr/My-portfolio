@@ -146,8 +146,9 @@ const Card = ({ id, title, description, date }) => {
                 </VStack>
 
                 <HStack>
-                    <Tag variant={'subtle'}>Flutter</Tag>
+                    <Tag variant={'subtle'}>Python</Tag>
                     <Tag variant={'subtle'}>React</Tag>
+                    <Tag variant={'subtle'}>Html5</Tag>
                 </HStack>
             </Box>
         </HStack>

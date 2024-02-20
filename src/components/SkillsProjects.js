@@ -36,9 +36,11 @@ export default function SkillsProjects() {
                         <Wrap>
                             <CustomSkillTag skill={'Python'} />
                             <CustomSkillTag skill={'Javascript'} />
+                            <CustomSkillTag skill={'Typescript'} />
                             <CustomSkillTag skill={'React'} />
-                            <CustomSkillTag skill={'HTML'} />
-                            <CustomSkillTag skill={'CSS'} />
+                            <CustomSkillTag skill={'HTML5'} />
+                            <CustomSkillTag skill={'CSS3'} />
+                            <CustomSkillTag skill={'SQL'} />
                         </Wrap>
                     </Box>
                     <Box my={2}>
@@ -62,8 +64,8 @@ export default function SkillsProjects() {
                             <ToolTag skill={'VS Code'} />
                             <ToolTag skill={'GitLab'} />
                             <ToolTag skill={'Git'} />
-                            <ToolTag skill={'Github'} />
-                            <ToolTag skill={'Bitbucket'} />
+                            <ToolTag skill={'Bash'} />
+                            <ToolTag skill={'Trello'} />
                             <ToolTag skill={'Scrum'} />
                         </Wrap>
 
