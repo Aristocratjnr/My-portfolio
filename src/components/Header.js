@@ -73,7 +73,7 @@ export default function Header() {
             fontWeight={600}
             color={"white"}
             bg={"primary.700"}
-            href={"https://profile-api-prod.s3.us-west-2.amazonaws.com/927433435_b8f3acb1-866b-4c45-b127-5093effcdf8d?response-content-disposition=attachment%3Bfilename%3DJunior_CV.pdf&response-content-type=application%2Fpdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240220T175340Z&X-Amz-SignedHeaders=host&X-Amz-Credential=AKIAZKXXDXTXZF2KYWCD%2F20240220%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Expires=300&X-Amz-Signature=b0a31a312b965b43d05ce7cda2db47f4ea110fbf5fabc3e240306abfa55581fe"}
+            href={"https://profile.indeed.com/p/davido-z6ym5ng"}
             _hover={{
               bg: "primary.900",
             }}
