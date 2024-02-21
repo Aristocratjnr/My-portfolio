@@ -77,7 +77,7 @@ export default function Header() {
             _hover={{
               bg: "primary.900",
             }}
-          >
+        >
             View My  Resume
           </Button>
         </Stack>
