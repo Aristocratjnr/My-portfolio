@@ -12,7 +12,7 @@ export default function Banner() {
                     <Box>
                         <Flex alignItems={'center'} justifyContent='center'>
                             <Image borderColor={'gray.100'} src='https://storage.googleapis.com/pai-images/96b85eee58eb4933b8d35ba4177884dd.jpeg' width='32' />
-                        </Flex>
+                        </Flex><br />
 
                         <Heading textAlign={'center'} fontSize={'md'}>Obuobi Ayim David</Heading><br />
 
