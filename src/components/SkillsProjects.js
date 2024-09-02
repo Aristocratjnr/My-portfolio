@@ -47,8 +47,8 @@ export default function SkillsProjects() {
                         <Box orientation='horizontal' bgColor='gray.300' my={3} height={0.2} />
                         <Wrap>
                             <FrameworkTag skill={'Wordpress'} />
-                            <FrameworkTag skill={'React JS'} />
-                            <FrameworkTag skill={'Next JS'} />
+                            <FrameworkTag skill={'ReactJS'} />
+                            <FrameworkTag skill={'NextJS'} />
                             <FrameworkTag skill={'Django'} />
                         </Wrap>
 
@@ -60,12 +60,12 @@ export default function SkillsProjects() {
 
                         <Wrap>
                             <ToolTag skill={'Vercel'} />
-                            <ToolTag skill={'VS Code'} />
+                            <ToolTag skill={'VSCode'} />
                             <ToolTag skill={'GitLab'} />
                             <ToolTag skill={'Git'} />
                             <ToolTag skill={'Bash'} />
                             <ToolTag skill={'Trello'} />
-                            <ToolTag skill={'Scrum'} />
+                            <ToolTag skill={'Jira'} />
                         </Wrap>
 
                     </Box>
