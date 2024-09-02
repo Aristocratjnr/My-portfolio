@@ -78,7 +78,7 @@ export default function Header() {
               bg: "primary.900",
             }}
         >
-            View My  Resume
+            Resume
           </Button>
         </Stack>
       </Flex>
