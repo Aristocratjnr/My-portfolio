@@ -21,9 +21,9 @@ export default function Banner() {
                         </Text>
 
                         <VStack my={4}>
-                            <Tag px={5} variant={'subtle'} colorScheme='primary'>Full Stack Developer</Tag>
+                            <Tag px={5} variant={'subtle'} colorScheme='primary'>Nextjs Developer</Tag>
                             <Tag px={5} variant={'subtle'} colorScheme='primary'>Problem Solver</Tag>
-                            <Tag px={5} variant={'subtle'} colorScheme='primary'>Data Analyst</Tag>
+                            <Tag px={5} variant={'subtle'} colorScheme='primary'>Critical thinker</Tag>
 
                         </VStack>
                         <Box orientation='horizontal' bgColor='gray.300' my={4} height={0.2} />
