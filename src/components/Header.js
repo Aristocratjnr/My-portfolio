@@ -69,7 +69,7 @@ export default function Header() {
         >
           <Button
             display={{ base: "inline-flex", md: "inline-flex" }}
-            fontSize={"sm"}
+            fontSize={"md"}
             fontWeight={600}
             color={"white"}
             bg={"primary.700"}
