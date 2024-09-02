@@ -35,9 +35,8 @@ export default function SkillsProjects() {
 
                         <Wrap>
                             <CustomSkillTag skill={'Python'} />
-                            <CustomSkillTag skill={'Javascript'} />
-                            <CustomSkillTag skill={'Typescript'} />
-                            <CustomSkillTag skill={'React'} />
+                            <CustomSkillTag skill={'Javascript / Typescript'} />
+                            <CustomSkillTag skill={'C#'} />
                             <CustomSkillTag skill={'HTML5'} />
                             <CustomSkillTag skill={'CSS3'} />
                             <CustomSkillTag skill={'SQL'} />
