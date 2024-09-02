@@ -46,7 +46,7 @@ export default function Banner() {
                                 </Box>
                                 <VStack alignItems={'start'} spacing={0.1}>
                                     <Text fontSize={'sm'}>Phone</Text>
-                                    <Text fontWeight={'600'}>0551784926</Text>
+                                    <Text fontWeight={'600'}>+233 551784926</Text>
                                 </VStack>
                             </HStack>
 
