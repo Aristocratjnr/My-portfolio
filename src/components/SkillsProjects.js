@@ -41,7 +41,7 @@ export default function SkillsProjects() {
                             <CustomSkillTag skill={'CSS3'} />
                             <CustomSkillTag skill={'SQL'} />
                         </Wrap>
-                    </Box>
+                    </Box><br/><br/>
                     <Box my={2}>
                         <Heading textAlign={'start'} as='h4' fontSize={'lg'}> Frameworks</Heading>
                         <Box orientation='horizontal' bgColor='gray.300' my={3} height={0.2} />
@@ -52,7 +52,7 @@ export default function SkillsProjects() {
                             <FrameworkTag skill={'Django'} />
                         </Wrap>
 
-                    </Box>
+                    </Box><br/><br/>
                     <Box my={5}>
                         <Heading textAlign={'start'} as='h4' fontSize={'lg'}> Other Tools</Heading>
 
