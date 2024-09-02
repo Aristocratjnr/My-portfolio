@@ -14,7 +14,7 @@ export default function Banner() {
                             <Image borderColor={'gray.100'} src='https://storage.googleapis.com/pai-images/96b85eee58eb4933b8d35ba4177884dd.jpeg' width='32' />
                         </Flex>
 
-                        <Heading textAlign={'center'}>Obuobi Ayim &nbsp;&nbsp; &nbsp;David</Heading>
+                        <Heading textAlign={'center'} fontSize={'md'}>Obuobi Ayim David</Heading><br />
 
                         <Text fontSize={'sm'} textAlign='center'>
                             I am a third year student currently pursuing BSc. Information Technology in University Of Ghana. I am looking for <Tag variant={'solid'}>internship</Tag> and <br /> <Tag mt={1} variant={'solid'}> Job Opportunities</Tag><br /> (Degree Completion in 2025).
