@@ -13,7 +13,7 @@ export const Footer = () => (
           <IconButton _hover={{ color: 'primary.700', bgColor: 'primary.50', border: '1px solid', borderColor: 'primary.700' }}><FaTwitter size={24} /></IconButton>
         </ButtonGroup>
       </Stack>
-      <Text textAlign={'center'} fontSize='20px' fontWeight={'bold'} color='gray.600'>Obuobi Ayim David</Text>
+      <Text textAlign={'center'} fontSize='20px' fontWeight={'bold'} color='gray.600'>Aristocratjnr🧸🎈</Text>
     </Stack>
   </Container>
 )
