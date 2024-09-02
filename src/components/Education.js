@@ -16,7 +16,7 @@ const milestones = [
         id: 1,
         date: 'June, 2018 ',
         title: 'Completed 18th',
-        description: `I initially attended the Golden Child Complex School before transferring to Saint Johannes International School on the eastern coast of Ghana when I was in class 2, where I became a boarding student. This summarizes my educational background.`
+        description: `I completed JHS level education at Saint Johannes Internation School, located in the Eastern Region of Ghana.`
     },
     {
         id: 2,
