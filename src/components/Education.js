@@ -16,7 +16,7 @@ const milestones = [
         id: 1,
         date: 'June, 2018 ',
         title: 'Completed 18th',
-        description: `I completed JHS level education at Saint Johannes Internation School, located in the Eastern Region of Ghana.`
+        description: `I completed JHS level education at Saint Johannes International School, located in the Eastern Region of Ghana.`
     },
     {
         id: 2,
